@@ -1,1 +1,1 @@
-prin("Hola estoy aprendiendo git y github")
+prin("Hola estoy aprendiendo git y github.")
